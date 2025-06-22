@@ -5,7 +5,7 @@ Best Plumbing Service in New York
    :maxdepth: 2
    :caption: Contents:
 
-For fast assistance, call ``+1 (866) 969‑0661
+For fast assistance, call +1 (866) 969‑0661
 ---------------------------------------------
 
 
