@@ -5,8 +5,10 @@ Best Plumbing Service in New York
    :maxdepth: 2
    :caption: Contents:
 
-For fast assistance, call +1 (866) 969‑0661
----------------------------------------------
+.. image:: https://img.shields.io/badge/Call%20Now-(866)%20969--0661-blue?style=for-the-badge&logo=phone
+   :target: tel:+18669690661
+   :alt: Call Now
+
 
 
 If you're in New York and searching for reliable, high-quality plumbing help without an initial charge, look no further. For fast assistance, call ``+1 (866) 969‑0661``—a single call connects you to professionals who offer no-cost service calls or consultations, ensuring you get expert advice before any fees apply. Whether you're dealing with a clogged sink or planning a full bathroom remodel, these experts are ready to assist at zero upfront cost.
